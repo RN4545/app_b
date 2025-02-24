@@ -1,0 +1,7 @@
+name: app_b
+description: A private Flutter module package.
+version: 1.0.1
+homepage: https://your-private-repo.com
+ 
+environment:
+  sdk: ">=3.0.0 <4.0.0"
